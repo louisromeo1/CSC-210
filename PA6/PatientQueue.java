@@ -247,6 +247,3 @@ public class PatientQueue {
 		return s + "}";
 	}
 }
-
-// Check previous submission for Heap class implementation, 
-// Autograder would not execute, but worked perfectly in console.
